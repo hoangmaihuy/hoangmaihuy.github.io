@@ -1,0 +1,20 @@
+.answer p {
+	font-size: 18px;
+	font-weight: normal;
+	font-style: italic;
+	font-family: "Times New Roman";
+	padding: auto;
+	text-indent: 20px;
+}
+
+.answer li {
+	font-size: 16px;
+	font-weight: normal;
+	font-style: italic;
+	font-family: "Times New Roman";
+}
+
+.row {
+	margin: auto;
+	margin-top: 10px;
+}

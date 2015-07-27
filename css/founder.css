@@ -1,0 +1,28 @@
+p {
+    text-indent: 0px;
+}
+
+#ava {
+	float:right;
+	width: 300px;
+}
+
+.description {
+	padding: 20px;
+}
+
+blockquote {
+	font-size: 16px;
+	font-weight: normal;
+	font-style: italic;
+}
+
+.col-md-6 {
+	background-color: #FFFEFA;
+	padding-top: 10px;
+	font-family: "Time News Roman";
+}
+
+.people {
+	border: 1px solid #dbdbdb;
+}

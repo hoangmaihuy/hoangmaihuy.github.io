@@ -1,0 +1,114 @@
+p {
+    text-indent: 40px;
+}
+
+h3 {
+	margin-left: auto;
+}
+
+body {
+	background: #E9EAED;
+	border-radius: 10px;
+}
+
+.header {
+	height: 120px;
+	background-color: #1e1e1e;
+}
+
+.header img {
+	margin-top: 10px;
+}
+
+.header #title {
+	color: #FFFAF5;
+	font-size: 20px;
+	font-family: "Segoe UI";
+	font-weight: semi bold;
+	padding-top: 30px;
+	padding-left: 30px;
+}
+
+.nav {
+	background-color: #1e1e1e;
+}
+
+.nav a {
+  font-size: 13px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #dfe3ee;
+  hover: ;
+}
+
+.nav li {
+	display: inline;
+	padding-right: 20px;
+}
+
+#cover {
+	width: 851px;
+	padding-left: 0px;
+}
+
+.container {
+	width: 851px;
+	margin: auto;
+}
+
+.main {
+	margin: auto;
+	width: 852px;
+	background-color: #efefef;
+    border: 1px solid #dbdbdb;
+}
+
+.people {
+	margin: auto;
+	width: 852px;
+    margin-top: 20px;
+}
+
+.description {
+	width: 500px;
+	margin-left: 15px;
+}
+
+#poster {
+	width: 300px;
+	float: right;
+}
+
+.main table {
+	margin-left: 15px;
+}
+
+.footer {
+	margin-top: 20px;
+	height: 120px;
+	background-color: #232D3B; 
+	float: bottom;
+}
+
+.footer .container {
+	background-color: #232D3B;
+	margin-left: auto;
+	padding-top: 20px;
+	font-size: 11px;
+	color: #FFFAF5;
+}
+
+.footer ul {
+	list-style-type: none;
+}
+
+.more {
+	color: #dfe3ee;
+	margin-left: 450px;
+}
+
+#contact {
+	margin-left: 450px;
+	margin-bottom: 10px;
+}
+

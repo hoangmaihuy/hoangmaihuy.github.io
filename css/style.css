@@ -59,7 +59,7 @@ body {
 .main {
 	margin: auto;
 	width: 852px;
-	background-color: #efefef;
+	background-color: #f1f1f1;
     border: 1px solid #dbdbdb;
 }
 
@@ -90,9 +90,8 @@ body {
 	float: bottom;
 }
 
-.footer .container {
+.footer {
 	background-color: #232D3B;
-	margin-left: auto;
 	padding-top: 20px;
 	font-size: 11px;
 	color: #FFFAF5;
@@ -104,11 +103,14 @@ body {
 
 .more {
 	color: #dfe3ee;
-	margin-left: 450px;
+}
+
+.right {
+	margin-left: auto;
+	width: 400px;
 }
 
 #contact {
-	margin-left: 450px;
 	margin-bottom: 10px;
 }
 

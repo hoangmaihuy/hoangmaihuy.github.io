@@ -7,8 +7,9 @@ h3 {
 }
 
 body {
-	background: #E9EAED;
+	background-image: url("../img/background.jpg");
 	border-radius: 10px;
+	background-position: fixed;
 }
 
 .header {
@@ -59,7 +60,7 @@ body {
 .main {
 	margin: auto;
 	width: 852px;
-	background-color: #f1f1f1;
+	background-color: #f9f9f9;
     border: 1px solid #dbdbdb;
 }
 

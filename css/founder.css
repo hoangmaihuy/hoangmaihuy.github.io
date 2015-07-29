@@ -24,6 +24,7 @@ blockquote {
 }
 
 .people {
+	width: 853px;
 	border: 1px solid #dbdbdb;
 	background-color: #FFFEFA;
 }

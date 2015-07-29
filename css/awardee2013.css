@@ -23,6 +23,7 @@ p {
   border: 1px solid #dbdbdb;
   background-size: cover;
   width: 852px;
+  height: auto;
   display: none;
   position: absolute;
   top: 0;

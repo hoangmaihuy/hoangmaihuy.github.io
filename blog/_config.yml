@@ -3,10 +3,10 @@ name: Mai Huy Hoàng
 bio: Slapping the keyboard until something good happens
 
 # twitter summary info
-description: A simple blog about coding building on top of Jekyll
+description: A simple blog about coding building on top of Jekyll and Indigo template
 
 # if it's an external image, update below for true
-# better with square imagesappens
+# better with square images
 external-image: false
 picture: assets/images/profile.jpg
 
@@ -45,10 +45,10 @@ email: maihuyhoang97@gmail.com
 authors:
     hoangmaihuy:
         name: Mai Huy Hoàng
-        bio: Slapping the keyboard ultil something good happens
+        bio: Slapping the keyboard until something good happens
         external-image: false
         picture: assets/images/profile.jpg
-        github: hoangmaihuy
+        facebook: huyhoang.chuyentin
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -76,7 +76,7 @@ show-tags: true
 related: true
 
 # show next & prev links in blog post?
-blog-nav-links: true
+blog-nav-links: false
 
 # show author block at the end of a post ?
 show-author: true

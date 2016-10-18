@@ -77,12 +77,12 @@ web-app-mode: True
 
 # Icons for Web App mode
 
-icon-36p: "/img/favicon/android-icon-36x36"
-icon-48p: "/img/favicon/android-icon-48x48"
-icon-72p: "/img/favicon/android-icon-72x72"
-icon-96p: "/img/favicon/android-icon-96x96"
-icon-144p: "/img/favicon/android-icon-144x144"
-icon-192p: "/img/favicon/android-icon-192x192"
+icon-36p: "/img/favicon/android-icon-36x36.png"
+icon-48p: "/img/favicon/android-icon-48x48.png"
+icon-72p: "/img/favicon/android-icon-72x72.png"
+icon-96p: "/img/favicon/android-icon-96x96.png"
+icon-144p: "/img/favicon/android-icon-144x144.png"
+icon-192p: "/img/favicon/android-icon-192x192.png"
 
 ########
 # Blog #

@@ -30,7 +30,7 @@ force-https: False
 
 lang: "en"
 author: "Mai Huy Hoàng"
-title: "{ Mai Huy Hoàng }"
+title: "{ Mei Brilliant }"
 description: "My life. My choices. My problems. My mistakes."
 keywords: "hoang, hoangmaihuy, personal, jekyll, theme"
 favicon: "/img/favicon/favicon.ico"
@@ -48,18 +48,41 @@ background-img: "../img/Orbit.png"
 ##############################
 
 dynamic-typing: True
-shuffle: True # Shuffle the lines.
+shuffle: False # Shuffle the lines.
 loop: True
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
 type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Slapping the keyboard until something good happens..."
-  - text: "Everything will be okay in the end. If it's not okay, it's not the end..."
-  - text: "Sometimes good things fall apart so better things can fall together..."
-  - text: "We don't care what them people say..."
-  - text: "No free coffee. Work hard paid off..."
+  - text: "I love it when you just don't care"
+  - text: "I love it when you dance like there's nobody there"
+  - text: "So when it gets hard, don't be afraid"
+  - text: "We don't care what them people say"
+  - text: "I love it when you don't take no"
+  - text: "I love it when you do what you want cause you just said so"
+  - text: "Let them all go home, we out late"
+  - text: "We don't care what them people say"
+  - text: "We don't have to be ordinary"
+  - text: "Make your best mistakes"
+  - text: "'Cause we don't have the time to be sorry"
+  - text: "So baby be the life of the party"
+  - text: "I'm telling you to take your shot it might be scary"
+  - text: "Hearts are gonna break"
+  - text: "'Cause we don't have the time to be sorry"
+  - text: "So baby be the life of the party"
+  - text: "Together we can just let go"
+  - text: "Pretending like there's no one else here that we know"
+  - text: "Slow dance fall in love as the club track plays"
+  - text: "We don't care what them people say"
+  - text: "We don't have to be ordinary"
+  - text: "Make your best mistakes"
+  - text: "'Cause we don't have the time to be sorry"
+  - text: "So baby be the life of the party"
+  - text: "I'm telling you to take your shot it might be scary"
+  - text: "Hearts are gonna break"
+  - text: "'Cause we don't have the time to be sorry"
+  - text: "So baby be the life of the party"
 
 me-img: "/img/profile.jpg"
 

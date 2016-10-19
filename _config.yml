@@ -39,7 +39,7 @@ favicon: "/img/favicon/favicon.ico"
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+#black-favicon: "/img/black-lab-glass.ico"
 
 background-img: "../img/Orbit.png"
 

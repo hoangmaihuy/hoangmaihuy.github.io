@@ -31,7 +31,7 @@ force-https: True
 lang: "en"
 author: "Mai Huy Hoàng"
 title: "{ Mei Brilliant }"
-description: "My life. My choices. My problems. My mistakes."
+description: "Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better."
 keywords: "hoang, hoangmaihuy, personal, jekyll, theme"
 favicon: "/img/favicon/favicon.ico"
 
@@ -232,3 +232,8 @@ sass:
 gems:
   - jekyll-paginate
   - jemoji
+  - jekyll-seo-tag
+  - jekyll-mentions
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-feed

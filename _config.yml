@@ -137,8 +137,8 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/code.png"
-    date: "To Infinity and Beyond"
+  - image: "/img/timeline/infinity.png"
+    date: "To Infinity & Beyond"
     description: "Trying to save the world with coffee and keyboard"
   - image: "/img/timeline/tju.png"
     date: "Sep 2016 - Jun 2017"

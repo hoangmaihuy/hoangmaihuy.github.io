@@ -113,7 +113,7 @@ icon-192p: "/img/favicon/android-icon-192x192.png"
 
 enable-gesture-navigation: True
 
-post-preview-words: 96
+post-preview-words: 84
 
 paginate: 5
 

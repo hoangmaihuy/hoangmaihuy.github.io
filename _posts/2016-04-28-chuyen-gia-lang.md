@@ -1,13 +1,9 @@
 ---
 title: "Chuyện già làng"
-date: 2016-04-28 21:00
-image: /assets/images/whale.jpg
-headerImage: true
-tag: ['notes']
-categories: notes
+tags: ['notes']
+category: notes
 layout: post
 section-type: post
-author: hoangmaihuy
 ---
 Già làng ngồi đó, vẻ mặt thẫn thờ, đôi mắt nhìn xa xăm về nơi biển cả. Từ ngày cá chết, già buồn hẳn đi, tâm lý bất ổn, đôi khi già vẫn chết lặng như vậy. Trông già như đang mường tưởng tượng ra viễn cảnh tương lai, hoặc cũng có thể già đang sống lại những ngày quá khứ. Già gắn bó với cái làng này từ ngày tóc còn chưa mọc cho đến tận bây giờ. Mái tóc bù xù giờ đã điểm bạc, vầng trán hói cũng đã xuất hiện ba tầng nếp nhăn.
 

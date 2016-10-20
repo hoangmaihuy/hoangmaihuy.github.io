@@ -1,0 +1,123 @@
+---
+---
+
+@import  "variables";
+@import "mixins";
+
+.blog-content {
+    .img-description {
+      color: #9E9E9E;
+      font-size: 16px;
+      text-align: center;
+      font-style: italic;
+      margin-bottom: 35px;
+      margin-top: 0px;
+    }
+    strong {
+      color: $secondary-color;
+    }
+    @media(min-width: 768px) {
+        width: 720px;
+        margin: auto;
+
+        blockquote {
+            margin: 0 auto;
+            color: #9E9E9E;
+            line-height: 42px;
+            padding: 32px 60px;
+            position: relative;
+            border: 0;
+            box-sizing: border-box;
+            word-wrap: break-word;
+            p {
+                margin: 0;
+                font-size: 32px;
+                font-family: 'Hoefler Text', Georgia, serif;
+                font-style: italic;
+                text-align: center;
+            }
+
+            ::before {
+                border-bottom: 1px solid #9E9E9E;
+                box-sizing: border-box;
+                content: '';
+                height: 1px;
+                left: 302px;
+                position: absolute;
+                right: 302px;
+                top: 0;
+            }
+
+            ::after {
+                border-bottom: 1px solid #9E9E9E;
+                box-sizing: border-box;
+                content: '';
+                height: 1px;
+                left: 302px;
+                position: absolute;
+                right: 302px;
+                bottom: 0;
+            }
+        }
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        margin: 0 0 35px;
+        text-transform: none;
+        font-family: $font-sans;
+        font-weight: 700;
+        letter-spacing: 1px;
+        color: $secondary-color;
+    }
+
+    p {
+        text-align: left;
+        @media(min-width:768px) {
+            margin: 35px 0 35px;
+            font-size: 18px;
+            line-height: 1.6;
+        }
+    }
+
+    ol,
+    ul {
+        text-align: left;
+        margin: 0 0 25px;
+        font-size: 18px;
+        line-height: 1.5;
+        list-style-position: inside;
+    }
+
+    .highlighter-rouge {
+        color: $font-head;
+        background-color: #212121;
+    }
+}
+
+#about,
+#contact,
+#latest-post {
+    p {
+        @media(min-width: 768px) {
+            width: 720px;
+            margin: 35px auto;
+        }
+    }
+}
+
+#about {
+    ul {
+        list-style-type: none;
+        padding: 0;
+    }
+
+    li {
+        display: inline;
+        margin: 0 15px;
+    }
+}

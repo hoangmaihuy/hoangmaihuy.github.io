@@ -1,19 +1,25 @@
 // Variables
 
 // Main color
-$primary-color: #000;
+$primary-color: #000000;
 
 // Anchor color
 $secondary-color: #00cdff;
 
 // Font color
-$font-color: #fff;
+$font-color: #E0E0E0;
+$font-head: #ffffff;
+
+// Font-family
+
+$font-serif: Georgia, "Taviraj", "Lora","Helvetica Neue",Helvetica,Arial,sans-serif;
+$font-sans: "Roboto", "Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;
 
 $navbar-text-shadow: true;
 $header-text-shadow: true;
 $header-background-color: $primary-color;
-$intro-text-color: $font-color;
-$navbar-color: $font-color;
+$intro-text-color: $font-head;
+$navbar-color: $font-head;
 $navbar-lg-collapse-background-color: $header-background-color;
 $navbar-lg-background: transparent;
 $navbar-sm-background-color: $navbar-lg-collapse-background-color;

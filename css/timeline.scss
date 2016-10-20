@@ -1,6 +1,9 @@
 ---
 ---
 
+@import "variables";
+@import "mixins";
+
 .timeline {
     position: relative;
     padding: 0;
@@ -121,7 +124,7 @@
 
 .timeline .timeline-heading h4 {
     margin-top: 0;
-    color: inherit;
+    color: $secondary-color;
 }
 
 .timeline .timeline-heading h4.subheading {

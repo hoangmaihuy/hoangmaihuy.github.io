@@ -31,8 +31,10 @@
               {% endfor %}
             </small>
           </h4>
+          <div class="blog-content">
+            {{ page.content | markdownify }}
+          </div>
 
-          {{ page.content | markdownify }}
 
           {% include share.html %}
 

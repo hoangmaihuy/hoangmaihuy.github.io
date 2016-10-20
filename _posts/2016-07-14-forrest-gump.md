@@ -1,13 +1,9 @@
 ---
 title: "Forrest Gump"
-date: 2016-07-14 21:00
-image: /assets/images/forrest-gump.jpg
 layout: post
 section-type: post
-headerImage: true
-tag: ['books', 'notes']
-categories: books
-author: hoangmaihuy
+tags: ['books', 'notes']
+category: books
 ---
 > There is a pleasure in being mad which none but madman know.  
 > John Dryden  

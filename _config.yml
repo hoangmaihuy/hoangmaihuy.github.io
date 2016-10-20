@@ -14,6 +14,10 @@ url: "http://hoangmaihuy.github.io"
 
 #baseurl: /
 
+# GitHub repository
+
+repository: hoangmaihuy/ManChi
+
 # Google tracking id
 
 google-tracking-id: "UA-83041909-3"
@@ -172,7 +176,7 @@ email: "maihuyhoang97@gmail.com"
 
 # if the author_blurb is not set, then this feature is skipped
 author_blurb: "I'm perfectly happy with all the people who are walking around and just staring at the clouds and looking at stars and saying &quot;I want to go there&quot;. But I'm looking at the ground, and I want to fix the pothole that's right in front of me before I fall in. This is the kind of person I am."
-author_blurb_image: "/img/me.jpg"
+author_blurb_image: "/img/profile_trans.png"
 
 ##################
 # Social Buttons #
@@ -212,8 +216,9 @@ keybase-in-footer: False
 
 pages_list:
   About: 'about'
-  Blog: 'latest-post'
   Timeline: 'timeline'
+  Project: 'project'
+  Blog: 'latest-post'
   Contact: 'contact'
 
 # Exclusion list from the generated _site

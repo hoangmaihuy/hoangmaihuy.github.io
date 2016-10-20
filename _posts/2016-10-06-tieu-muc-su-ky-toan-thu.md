@@ -90,7 +90,7 @@ Tuần sau đó có một bạn Bangladesh bắt chuyện với tại hạ, hỏ
 
 ### Hồi 14
 
-Lại chuyện không biết tiếng tàu và WC. Hôm 16 Thiên Tân hội tổ chức liên hoan năm học mới ăn lẩu tứ xuyên. Tại hạ thì uống kém, lúc nào cũng từ chối các thể loại bia rượu vì biết tửu lượng mình không cao và thận không tốt, nhưng bị ép ghê quá nên đành phải uống mấy cốc. Một hồi sau đó mặt đỏ bừng bừng nên được tha, độ ngáo đá cũng có phần thuyên giảm nhưng giải quyết nỗi buồn vẫn là nhu cầu cấp thiết. Hỏi một anh thì anh ấy chỉ thẳng ngón tay WC kìa em, tại hạ hồn nhiên đi vào. Một lúc sau có anh khác chạy vào kêu tại hạ “Hoàng ơi WC nữ mà em” :| Cơ mà trót rồi nên thôi đành nốt rồi mặt mo đi ra, ngoảnh đầu nhìn lại mới thấy WC nam ở phía bên kia bức tường. Hôm đi học tiếng tàu đầu tiên có chữ 女 nhìn trông quen quen, chợt nhớ ra hôm đi WC lộn có chữ này trước cửa mới thấy mình thật ngu người.
+Lại chuyện không biết tiếng tàu và WC. Hôm 16 Thiên Tân hội tổ chức liên hoan năm học mới ăn lẩu tứ xuyên. Tại hạ thì uống kém, lúc nào cũng từ chối các thể loại bia rượu vì biết tửu lượng mình không cao và thận không tốt, nhưng bị ép ghê quá nên đành phải uống mấy cốc. Một hồi sau đó mặt đỏ bừng bừng nên được tha, độ ngáo đá cũng có phần thuyên giảm nhưng giải quyết nỗi buồn vẫn là nhu cầu cấp thiết. Hỏi một anh thì anh ấy chỉ thẳng ngón tay WC kìa em, tại hạ hồn nhiên đi vào. Một lúc sau có anh khác chạy vào kêu tại hạ “Hoàng ơi WC nữ mà em” :) Cơ mà trót rồi nên thôi đành nốt rồi mặt mo đi ra, ngoảnh đầu nhìn lại mới thấy WC nam ở phía bên kia bức tường. Hôm đi học tiếng tàu đầu tiên có chữ 女 nhìn trông quen quen, chợt nhớ ra hôm đi WC lộn có chữ này trước cửa mới thấy mình thật ngu người.
 
 ### Hồi 15
 
